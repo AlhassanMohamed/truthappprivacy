@@ -24,6 +24,7 @@ Link to privacy policy of third party service providers used by the app
 **App Features**
 
 By downloading our app you agree in all features on the app like user can delete any thing like chat or single message or post he did it or comment he did it, or group he did it and more in the app please if you saw something you don't agree on it delete our app and stop using our service to avoid any problems you or us will be in. also time by time we will put more features remember that. 
+Also be sure that you id will be always unknow no one will know your name or phone when you text them always your id will be unknow. we always will try to achive that but their is nothing secure 100% but always we will work to put you in safe zone. 
 
 
 **Log Data**
